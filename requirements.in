@@ -1,0 +1,6 @@
+discord==1.0.1
+urlextract==1.2.0
+python-dotenv==0.15.0
+
+# dev requirements
+black==20.8b1
